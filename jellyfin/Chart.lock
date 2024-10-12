@@ -1,0 +1,6 @@
+dependencies:
+- name: common
+  repository: oci://tccr.io/truecharts
+  version: 24.1.2
+digest: sha256:76d42a85b14b724516f8c862fb6bf08dee74ab5ca8d93e209aa19b2668984041
+generated: "2024-06-28T06:23:54.524857575Z"
